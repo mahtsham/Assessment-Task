@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-To see a preview of the actual project, check out the [Live Demo Link](https://rawcdn.githack.com/umairarshadbutt/News-Week-Clone/c66dd9ea0af890bf9a8a52e708498da7c554934e/index.html)
+To see a preview of the actual project, check out the [Live Demo Link](https://rawcdn.githack.com/mahtsham/Assessment-Task/feature/carousel/carousel.html)
 
 
 ## Getting Started
