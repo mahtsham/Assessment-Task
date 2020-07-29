@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-To see a preview of the actual project, check out the [Live Demo Link](https://rawcdn.githack.com/mahtsham/Assessment-Task/feature/carousel/carousel.html)
+To see a preview of the actual project, check out the [Live Demo Link](https://rawcdn.githack.com/mahtsham/Assessment-Task/2085109210c056ab55d69aeec77a69646527d23f/index.html)
 
 
 ## Getting Started
