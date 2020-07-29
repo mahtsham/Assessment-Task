@@ -9,6 +9,7 @@
 </div>
 <p align="center">The main goal is to implement Carousel with the help of HTML and CSS</p>
 
+![screenshot](screen_shot.png)
 
 ## Built With
 
